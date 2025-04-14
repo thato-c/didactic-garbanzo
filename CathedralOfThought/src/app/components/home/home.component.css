@@ -3,12 +3,10 @@
     justify-content: center;
     align-items: center;
     margin: 50px;
-    border: 1px solid black;
     height: 70vh;
 }
 
 .card{
-    border: 1px solid black;
     max-width: 700px;
 }
 

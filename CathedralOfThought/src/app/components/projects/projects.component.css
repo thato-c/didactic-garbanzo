@@ -1,0 +1,29 @@
+.container{
+    display: grid;
+    margin: 50px;
+    grid-template-columns: repeat(3, 1fr);
+    height: 80vh;
+    gap: 50px;
+}
+
+.column{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.image{
+    height: 500px;
+    border: 1px solid white;
+    border-radius: 20px;
+    
+}
+
+.card-content{
+    padding: 20px;
+    align-items: center;
+}
+
+.projectName{
+    margin-bottom: 10px;
+}

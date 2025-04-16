@@ -1,7 +1,9 @@
 .container{
+    flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 2rem;
     margin: 50px;
     height: 70vh;
 }
@@ -17,6 +19,6 @@
 
 .name{
     display: flex;
-    justify-content: right;
+    justify-content: flex-end;
     padding-right: 40px;
 }
